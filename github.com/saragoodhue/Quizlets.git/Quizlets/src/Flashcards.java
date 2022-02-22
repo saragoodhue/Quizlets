@@ -10,7 +10,7 @@ public class Flashcards
 
 				public static void studyFlashcards()
 					{
-					//hehe
+					
 						Scanner input = new Scanner(System.in);
 						System.out.println("Do you want to review with the Term or Definition?");
 						String choice;
