@@ -52,7 +52,7 @@ public class QuizletRunner
 					
 				}
 				if(menuAnswer == 2) {
-					
+					Quiz.quizFlashcards();
 				}
 				if(menuAnswer == 3) {
 					Matching.match();
