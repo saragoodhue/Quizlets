@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Quiz
 	{
 
-		//hehe
+		
 				static Scanner scanner = new Scanner(System.in);
 				static int numOfMulChoice;
 				static int numOfTF;
