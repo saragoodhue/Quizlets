@@ -41,6 +41,7 @@ public class QuizletRunner
 
 		public static void menu()
 			{
+				System.out.println();
 				System.out.println("You now have the option to do:");
 				System.out.println("(1) flashcards");
 				System.out.println("(2) a quiz");
